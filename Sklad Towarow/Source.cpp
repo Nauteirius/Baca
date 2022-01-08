@@ -1,4 +1,4 @@
-//kamil sordyl
+//
 #include <iostream>
 
 long long totalGoods = 0;
